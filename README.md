@@ -22,7 +22,7 @@ pip3 install -r requirements.txt
 ```
 
 # Usage
-1. Connect the servo motors to your Raspberry Pi according to the pin configuration specified in the server.js file.
+1. Connect the servo motors to your Raspberry Pi according to the pin configuration specified in the `pinout` file.
 
 2. Run the Node.js server by executing the following command:
 ```
