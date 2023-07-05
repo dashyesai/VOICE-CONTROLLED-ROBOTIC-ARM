@@ -10,7 +10,6 @@ This repository contains the code for a voice-controlled robotic arm powered by 
 Before getting started, make sure you have the following hardware and software installed:
 
 Raspberry Pi (any version)
-USB microphone
 Servo motors (number depends on your robotic arm)
 Python (version 3.7 or later)
 Node.js (version 10 or later)
