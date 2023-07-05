@@ -15,9 +15,9 @@ Node.js (version 10 or later)
 
 # Installation
 1. Install the required Python dependencies by navigating to the project directory and running:
-```
+``
    pip3 install -r requirements.txt
-```
+``
 2. Install the required Node.js dependencies by navigating to the project directory and running:
 
    npm install
