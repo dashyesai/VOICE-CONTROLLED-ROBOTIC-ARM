@@ -2,7 +2,8 @@
  - Voice-controlled robotic arm powered by Raspberry Pi 
 This repository contains the code for a voice-controlled robotic arm powered by Raspberry Pi. The project allows you to control the movement of a robotic arm using voice commands.
 
-[Image](voice_robot.png)
+![voice_robot](https://github.com/dashyesai/VOICE-CONTROLLED-ROBOTIC-ARM/assets/122713553/f1cfddd3-b8f8-4a55-bebc-ccbfe2c92f3f)
+
 
 
 # Prerequisites
