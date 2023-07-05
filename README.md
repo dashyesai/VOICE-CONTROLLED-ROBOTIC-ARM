@@ -1,7 +1,5 @@
 # VOICE-CONTROLLED-ROBOTIC-ARM
-Voice-controlled robotic arm powered by Raspberry Pi 
-
-
+ - Voice-controlled robotic arm powered by Raspberry Pi 
 This repository contains the code for a voice-controlled robotic arm powered by Raspberry Pi. The project allows you to control the movement of a robotic arm using voice commands.
 
 # Prerequisites
@@ -19,17 +17,17 @@ Node.js (version 10 or later)
 pip3 install -r requirements.txt
 ```
 2. Install the required Node.js dependencies by navigating to the project directory and running:
-
+```
    npm install
-
+```
 
 # Usage
 1. Connect the servo motors to your Raspberry Pi according to the pin configuration specified in the server.js file.
 
 2. Run the Node.js server by executing the following command:
-
+```
    node server.js
-   
+```  
 3. Open a web browser and access the Raspberry Pi's IP address followed by port 3000 (e.g., http://<raspberry-pi-ip>:3000). This will display the index.html file.
 4. Click the "Start Listening" button and grant microphone access when prompted.
 5. Speak the voice commands (e.g., "open", "close", "front", "back", "up", "down") into the microphone to control the robotic arm.
