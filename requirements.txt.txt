@@ -1,0 +1,4 @@
+RPi.GPIO>=0.7.0
+websocket-client>=1.2.1
+express>=4.17.1
+socket.io>=4.3.1
