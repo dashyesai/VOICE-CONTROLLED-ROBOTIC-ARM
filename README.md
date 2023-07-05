@@ -35,11 +35,12 @@ Node.js (version 10 or later)
 5. Speak the voice commands (e.g., "open", "close", "front", "back", "up", "down") into the microphone to control the robotic arm.
 
 # Files
-index.html: The HTML file that displays the web interface for controlling the robotic arm.
-server.js: The Node.js server file that handles the communication between the web interface and the Raspberry Pi.
-script.js: The JavaScript file that sends voice commands to the server.
-open.py, close.py, front.py, back.py, up.py, down.py: Python scripts that control the movement of the servo motors based on the received voice commands.
-Contributing
+ - index.html: The HTML file that displays the web interface for controlling the robotic arm.
+ - server.js: The Node.js server file that handles the communication between the web interface and the Raspberry Pi.
+ - script.js: The JavaScript file that sends voice commands to the server.
+ - open.py, close.py, front.py, back.py, up.py, down.py: Python scripts that control the movement of the servo motors based on the received voice commands.
+
+# Contributing
 If you want to contribute to this project, feel free to open an issue or submit a pull request. Any contributions are welcome!
 
 # License
